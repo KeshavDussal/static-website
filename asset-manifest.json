@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.183aa1e1.chunk.css",
+    "main.js": "/my-app/static/js/main.3e55c8f6.chunk.js",
+    "main.js.map": "/my-app/static/js/main.3e55c8f6.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.b98736f6.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.b98736f6.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/my-app/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2ac4c853.chunk.js": "/my-app/static/js/2.2ac4c853.chunk.js",
+    "static/js/2.2ac4c853.chunk.js.map": "/my-app/static/js/2.2ac4c853.chunk.js.map",
+    "static/js/3.ed4da523.chunk.js": "/my-app/static/js/3.ed4da523.chunk.js",
+    "static/js/3.ed4da523.chunk.js.map": "/my-app/static/js/3.ed4da523.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/my-app/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.183aa1e1.chunk.css.map": "/my-app/static/css/main.183aa1e1.chunk.css.map",
+    "static/js/2.2ac4c853.chunk.js.LICENSE.txt": "/my-app/static/js/2.2ac4c853.chunk.js.LICENSE.txt",
+    "static/media/2014_bugatti_veyron_ettore_bugatti_legend_edition-1366x768.f172ff28.jpg": "/my-app/static/media/2014_bugatti_veyron_ettore_bugatti_legend_edition-1366x768.f172ff28.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg",
+    "static/media/wallpapers_11-1574628863.60d74a3c.jpg": "/my-app/static/media/wallpapers_11-1574628863.60d74a3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b98736f6.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2ac4c853.chunk.js",
+    "static/css/main.183aa1e1.chunk.css",
+    "static/js/main.3e55c8f6.chunk.js"
+  ]
+}
